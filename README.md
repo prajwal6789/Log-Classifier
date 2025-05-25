@@ -1,0 +1,1 @@
+Here first run the Log_Classification_System.ipynb file and then save the model that we use in that classification_logs.zip file , data set to run the Log_Classification_System.ipynb is available in "training" folder of classification_logs.zip file. 
